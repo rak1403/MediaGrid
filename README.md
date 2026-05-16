@@ -72,3 +72,4 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 - `/prisma`: Database schema and configuration.
 - `/types`: Shared TypeScript interfaces.
 - `/public`: Static assets.
+
